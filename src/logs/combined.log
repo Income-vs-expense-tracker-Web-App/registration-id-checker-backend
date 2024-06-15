@@ -1,0 +1,617 @@
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"error","message":"Error connecting to database config is not defined","stack":"ReferenceError: config is not defined\n    at connectToDatabase (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/utils/database.js:6:30)\n    at file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/app.js:10:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)\n    at async ModuleLoader.import (node:internal/modules/esm/loader:329:24)\n    at async loadESM (node:internal/process/esm_loader:28:7)\n    at async handleMainPromise (node:internal/modules/run_main:113:12)"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"error","message":"cconst is not defined"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"error","message":"ReferenceError: cconst is not defined\n    at createUser (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/modules/controller.js:11:5)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"error","message":"ReferenceError: __dirname is not defined\n    at uploadFile (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/services/localStorage.js:17:33)\n    at createUser (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/modules/controller.js:12:7)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"ReferenceError: __dirname is not defined\n    at uploadFile (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/services/localStorage.js:17:33)\n    at createUser (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/modules/controller.js:13:7)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"TypeError: Spread syntax requires ...iterable[Symbol.iterator] to be a function\n    at Object.create (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/modules/repository.js:12:23)\n    at createUser (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/modules/controller.js:15:38)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"error","message":"ReferenceError: __dirname is not defined\n    at uploadFile (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/services/upload/localStorage.js:17:33)\n    at createUser (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/modules/controller.js:12:7)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"ReferenceError: __dirname is not defined\n    at uploadFile (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/services/upload/localStorage.js:17:33)\n    at createUser (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/modules/controller.js:13:7)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"error","message":"TypeError: Spread syntax requires ...iterable[Symbol.iterator] to be a function\n    at Object.create (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/modules/repository.js:12:23)\n    at createUser (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/modules/controller.js:15:38)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"TypeError: Spread syntax requires ...iterable[Symbol.iterator] to be a function\n    at Object.create (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/modules/repository.js:12:23)\n    at createUser (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/modules/controller.js:15:38)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"TypeError: Spread syntax requires ...iterable[Symbol.iterator] to be a function\n    at Object.create (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/modules/repository.js:12:23)\n    at createUser (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/modules/controller.js:16:38)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"ValidationError: User validation failed: passport_url: Path `passport_url` is required., cv_url: Path `cv_url` is required.\n    at Document.invalidate (/home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3307:32)\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3068:17\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/schemaType.js:1388:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"ValidationError: User validation failed: passport_url: Path `passport_url` is required., cv_url: Path `cv_url` is required.\n    at Document.invalidate (/home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3307:32)\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3068:17\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/schemaType.js:1388:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))\n    at createUser (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/modules/controller.js:11:41)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"ValidationError: User validation failed: passport_url: Path `passport_url` is required., cv_url: Path `cv_url` is required.\n    at Document.invalidate (/home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3307:32)\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3068:17\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/schemaType.js:1388:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"ValidationError: User validation failed: passport_url: Path `passport_url` is required., cv_url: Path `cv_url` is required.\n    at Document.invalidate (/home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3307:32)\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3068:17\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/schemaType.js:1388:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"ValidationError: User validation failed: passport_url: Path `passport_url` is required., cv_url: Path `cv_url` is required.\n    at Document.invalidate (/home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3307:32)\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3068:17\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/schemaType.js:1388:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"ValidationError: User validation failed: passport_url: Path `passport_url` is required., cv_url: Path `cv_url` is required.\n    at Document.invalidate (/home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3307:32)\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3068:17\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/schemaType.js:1388:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"ValidationError: User validation failed: passport_url: Path `passport_url` is required., cv_url: Path `cv_url` is required.\n    at Document.invalidate (/home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3307:32)\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3068:17\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/schemaType.js:1388:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"ValidationError: User validation failed: passport_url: Path `passport_url` is required., cv_url: Path `cv_url` is required.\n    at Document.invalidate (/home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3307:32)\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3068:17\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/schemaType.js:1388:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"__dirname is not defined"}
+{"level":"error","message":"ValidationError: User validation failed: passport_url: Path `passport_url` is required., cv_url: Path `cv_url` is required.\n    at Document.invalidate (/home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3307:32)\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/document.js:3068:17\n    at /home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/schemaType.js:1388:9\n    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"error","message":"CastError: Cast to ObjectId failed for value \"666d6c41241d5c08470e436\" (type string) at path \"_id\" for model \"User\"\n    at SchemaObjectId.cast (/home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/schema/objectId.js:250:11)\n    at SchemaType.applySetters (/home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/schemaType.js:1236:12)\n    at SchemaType.castForQuery (/home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/schemaType.js:1653:17)\n    at cast (/home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/cast.js:375:32)\n    at Query.cast (/home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/query.js:4798:12)\n    at Query._castConditions (/home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/query.js:2206:10)\n    at model.Query._findOne (/home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/query.js:2526:8)\n    at model.Query.exec (/home/emmanuel/kitchen/backend-projects/get-user-info-api-service/node_modules/mongoose/lib/query.js:4342:80)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Object.fetchUserById (file:///home/emmanuel/kitchen/backend-projects/get-user-info-api-service/src/modules/repository.js:29:12)"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
+{"level":"info","message":"Server is running on port: 3000"}
+{"level":"info","message":"Database connection established successfully"}
