@@ -1,6 +1,10 @@
 import express from "express";
+import cors from "cors";
 import { respond } from "./src/utils/respond.js";
-import { globalErrorHandler, notFoundHandler } from "./src/middlewares/error.js";
+import {
+  globalErrorHandler,
+  notFoundHandler,
+} from "./src/middlewares/error.js";
 import { logger } from "./src/utils/logger.js";
 import user from "./src/modules/route.js";
 import { connectToDatabase } from "./src/utils/database.js";
@@ -11,12 +15,13 @@ connectToDatabase();
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+app.use(cors({ origin: "*" }));
 
 app.get("/", (req, res) => {
   return respond(res, 200, "API is served");
 });
 
-app.use('/users', user)
+app.use("/users", user);
 
 app.use(globalErrorHandler);
 app.use(notFoundHandler);
